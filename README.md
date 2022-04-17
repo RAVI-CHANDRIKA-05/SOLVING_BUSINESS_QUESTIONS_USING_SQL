@@ -7,7 +7,7 @@ suppliers, shipping, employees.
 
 The Northwind database is a sample database used by Microsoft.
 
-[use this link to download the dataset into SSMS] (https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
+[use this link to download the dataset into SSMS](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 
 ## Files
 
