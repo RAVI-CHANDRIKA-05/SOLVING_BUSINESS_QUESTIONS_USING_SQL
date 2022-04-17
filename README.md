@@ -1,7 +1,7 @@
 # SQL_QUERIES_NORTHWIND_DATASET
 
 ## Northwind-Database
-This repository contains 50 queries and answers of the popular northwind database carried out in SSMS
+This repository contains 50 queries and answers of the popular northwind database carried out in SSMS.<br>
 The Northwind database is an sample database for a small-business, with customers, orders, inventory, purchasing, 
 suppliers, shipping, employees.
 
