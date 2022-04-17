@@ -15,3 +15,7 @@ The Northwind database is a sample database used by Microsoft.
     * NORTHWIND_DATASET_PRACTICE_QUERY.SQL
 * Diagram:
     * NORTHWIND_ERD.png
+
+
+
+[Inspiration](https://musiliadebayo.medium.com/50-sql-practice-queries-and-answers-3fc896650b2e)
