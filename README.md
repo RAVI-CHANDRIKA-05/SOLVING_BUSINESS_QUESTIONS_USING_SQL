@@ -18,5 +18,5 @@ The Northwind database is a sample database used by Microsoft.
 
 
 
-[Inspiration](https://musiliadebayo.medium.com/50-sql-practice-queries-and-answers-3fc896650b2e)
+[Inspiration1](https://musiliadebayo.medium.com/50-sql-practice-queries-and-answers-3fc896650b2e)<br>
 [Inspiration2](https://www.amazon.com/SQLPractice-Problems-learn-doing/dp/1540422658)
